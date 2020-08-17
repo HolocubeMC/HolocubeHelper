@@ -1,0 +1,16 @@
+{
+  "name": "holocube-helper",
+  "version": "1.0.0",
+  "description": "Bot to help Holocube Players",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GreenmanYT",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "superagent": "^5.3.1",
+    "ytdl-core": "^3.1.2"
+  }
+}
